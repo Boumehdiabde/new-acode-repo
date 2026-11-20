@@ -1,0 +1,5 @@
+[
+  { "id": "1001", "customer": "أحمد", "item": "لابتوب", "status": "shipped", "total": 1200 },
+  { "id": "1002", "customer": "سارة", "item": "سماعات", "status": "processing", "total": 150 },
+  { "id": "1003", "customer": "خالد", "item": "شاشة", "status": "delivered", "total": 300 }
+]
